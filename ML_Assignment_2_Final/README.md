@@ -26,7 +26,7 @@ Missing values and class imbalance were examined.
 
 ### 3. GitHub Repository Link
 
-Add your GitHub repository URL here after creating it.
+(https://github.com/souritri2026ct/ML-ASSIGNMENT2_Souritri/tree/main/ML_Assignment_2_Final)
 
 ### 4. Models Used
 
