@@ -105,7 +105,7 @@ Open the notebook:
 
 Execute all notebook cells in order.Ipynb file is available under notebooks folder.
 
-The project generates:
+The assignment generates:
 - results.csv
 - test_data.csv
 - Five trained model files
