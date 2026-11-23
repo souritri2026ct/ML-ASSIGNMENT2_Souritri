@@ -100,7 +100,7 @@ Install dependencies:
 
 Open the notebook:
 
-    jupyter notebook ML_Assignment_2_Classification.ipynb
+    jupyter notebook ML_Assignment2_2026ct05159 (1).ipynb
 
 Execute all notebook cells in order.
 
