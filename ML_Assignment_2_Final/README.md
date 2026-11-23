@@ -1,7 +1,8 @@
 
 # Machine Learning Assignment 2
 ## Classification Model Comparison
-
+Name-Souritri Chatterjee
+Bits id-2026ct05159
 ### 1. Problem Statement
 
 The objective of this assignment is to implement and
