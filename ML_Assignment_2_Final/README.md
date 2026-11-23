@@ -102,7 +102,7 @@ Open the notebook:
 
     jupyter notebook ML_Assignment2_2026ct05159 (1).ipynb
 
-Execute all notebook cells in order.
+Execute all notebook cells in order.Ipynb file is available under notebooks folder.
 
 The project generates:
 - results.csv
